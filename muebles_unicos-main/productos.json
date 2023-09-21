@@ -16,5 +16,23 @@
         "nombre": "Lámpara",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Librera",
+        "descripcion": "Una Librera Moderna para tu caista uwu.",
+        "imagen": "images/Librera.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Tocador",
+        "descripcion": "Una Tocador Moderna para tu caista uwu.",
+        "imagen": "images/Tocador.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Credenza",
+        "descripcion": "Una Credenza Credaza para tu caista uwu.",
+        "imagen": "images/Credenza.jpg"
     }
 ]
